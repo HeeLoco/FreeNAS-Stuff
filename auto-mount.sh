@@ -17,7 +17,7 @@ ssh -User@"IP" 'bash -s' < /root/auto-mount/unmount-secure.sh
 # and the secure area on the has been closed, so the keys are safe on the Pi
 
 # Now we need to execure our Python scripts to use the API to unlock our volumes
-/usr/local/bin/python /root/auto-mount/open-volumeXY.py
+/usr/local/bin/python /root/auto-mount/unlock-volumeXY.py
 
 # Now that we have unlocked the volumes, lets unmount the ramdrive
 umount /mnt/ramfs
