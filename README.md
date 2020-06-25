@@ -1,5 +1,5 @@
 # FreeNAS-Stuff
-
+Collection of different scripts / howtos / ...
 ## Automatic decryption on boot
 
 https://forums.lawrencesystems.com/t/freenas-automatic-decryption-on-boot/2586
