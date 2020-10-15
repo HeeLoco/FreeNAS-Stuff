@@ -17,3 +17,5 @@ https://askubuntu.com/questions/137483/how-to-create-a-shutdown-user-or-shutdown
 https://guides.github.com/features/mastering-markdown/
 
 https://www.openvim.com/
+
+https://gehrcke.de/2013/08/freenas-simple-auto-shutdown-revisited/
